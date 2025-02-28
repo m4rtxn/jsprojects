@@ -14,3 +14,14 @@ Este ejercicio en **JavaScript** cubre varios conceptos fundamentales relacionad
 
 - **Interacción con el usuario**  
   El ejercicio incluye la entrada de datos por parte del usuario mediante la función `prompt()`.
+
+# 03-PasswordGenerator
+
+## Descripción
+
+- ** Manipulación del DOM (getElementById, modificar valores de elementos).**  
+- ** Funciones en JavaScript.**  
+- ** Generación de contraseñas aleatorias. `Math.random()`**  
+- ** Manejo de eventos.**  
+- ** Interacción con el portapapeles `(navigator.clipboard.writeText)`.**  
+- ** Validaciones e interacción con el usuario (alertas).**  
